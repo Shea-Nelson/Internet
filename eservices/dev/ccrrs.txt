@@ -1,0 +1,155 @@
+<!-- Start Main Content -->
+<div class="content_box">
+	<h2>Clerk of Court Revenue Remittance System</h2>
+	<div>
+		<p>Florida Clerks of Court and County Comptrollers collect documentary stamp tax, nonrecurring intangible personal property tax, and over 151 different fines and fees that 
+		are distributed to various agencies. Florida law requires these funds be electronically remitted to the Florida Department of Revenue for distribution. Clerks and 
+		comptrollers transfer funds for all state agencies to the Department in a single electronic transaction through the 
+		<a title="Link to Clerk of Court Revenue Remittance System - This link will open in a new window" href="https://suntax.floridarevenue.com/" target="_blank">Clerk of Court 
+		Revenue Remittance System</a>.</p>
+
+		<h3>Remittances Due Weekly</h3>		
+
+			<p>Remittances for documentary stamp tax and nonrecurring intangible personal property tax are due on a weekly  basis. The municipality or county officer must complete 
+			the online transaction before 5:00 p.m., ET, on the sixth working day following the close of the week in which the funds were received.</p>
+
+		<h3>Remittances Due Monthly</h3>
+
+			<p>Remittances for related fees, services charges, court costs, and fines are due on a monthly basis. The Clerk must complete the online transaction before 5:00 p.m., ET, 
+			on the last working day before the 10th day of the month immediately following the month in which the funds were collected.</p>
+		
+		<p>For a list of payment due dates, review the Department's <span style="font-style: italic;">Florida e-Services Program Calendar of Remittance Dates for Municipalities and 
+		County Officers</span> (<a title="Link to Form DR-659C - This link will open in a new window" href="/Forms_library/current/dr659c.pdf" target="_blank">Form DR-659C 
+		<img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"/></a>).</p>
+		
+
+		<div class="table_colors" id="accordion_forms">	
+	<!--	<div class="noticebox">
+			<h3>What's New</h3>
+				<ul style="padding-left: 22px;">
+					<li><a title="Changes effective July 1, 2016 - This link will open in a new window" href="http://floridarevenue.com/dor/eservices/ccrrs/whats_new_0716.pdf" 
+					target="_blank">Remittance System Changes for Statutory Revisions Effective July 1, 2016  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a>.
+					</li>
+				</ul>
+		</div> -->
+
+				<!--	<h3 id="Documentation">Documentation</h3>
+			<div>
+				<table style="padding-left: 22px;" summary="CCRRS Documentation">
+					<tr>
+						<td valign="top" style="padding-left: 22px;" >
+							<ul>
+							<li><a title="Link to CCRRS Crosswalk - This link will open in a new window" href="http://floridarevenue.com/dor/eservices/ccrrs/ccrrs-crossref.pdf" 
+							target="_blank">CCRRS Crosswalk <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"/></a></li>
+							<li><a title="Link to CCRRS Upload Screen Shots - This link will open in a new window" 
+							href="http://floridarevenue.com/dor/eservices/ccrrs/CCRRSUploadScreenShots.pdf" target="_blank">CCRRS Upload Screen Shots 
+							<img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"/></a></li>
+						</td>
+						<td valign="top" style="padding-left: 52px;" >
+							<ul>
+								<li><a title="Link to CCRRS Upload Template - This link will open in a new window" 
+								href="http://floridarevenue.com/dor/eservices/ccrrs/CCRRSUploadTemplate.csv" target="_blank">CCRRS Upload Template</a></li>
+								<li><a title="Link to CCRRS Worksheets - This link will open in a new window" target="_blank" 
+								href="http://floridarevenue.com/dor/eservices/ccrrs/worksheet.xls">CCRRS Worksheets <img alt="Excel Icon" src="/PublishingImages/Excel-icon.png"/></a></li>
+							</ul>
+						</td>
+					</tr>
+				</table>
+			</div> -->
+			
+			<h3 id="remit">Electronic File and Pay</h3>
+			<div>
+				<ul>
+					<li><p>Agency worksheets: To assist in preparing your remittance submission, you may want to print blank copies of each agency page to use as a worksheet. To do 
+					so, go to each agency page and click the "Print this page" link at the top of the page. You will then have an original set of worksheets that can be photocopied for 
+					future use.</p></li>
+					
+					<li><p>Records: Once a filing is submitted, it is stored for review in the Remittance History area until the detail is posted and the payment is fully processed 
+					between financial institutions.</p></li>
+					
+					<li><p>Correcting a previous submission: If you determine a submission has been made in error (i.e., funds entered on incorrect line, incorrect 
+					amount of funds entered, etc.), email the Department's <a title="Link to Revenue Accounting Email" 
+					href="mailto:RevenueAccounting@floridarevenue.com">Revenue Accounting</a> section, or call 850-617-8586, to facilitate the correction.</p></li>
+					
+					<li><p>Replacing a failed electronic payment: Log in to the <a title="Link to Clerk of Court Revenue Remittance System - This link will open in a new window" 
+					href="https://suntax.floridarevenue.com/" target="_blank">Clerk of Court Revenue Remittance System</a>, then select the "Returned Item" tab. Select the item that failed, 
+					then click "Select" to proceed to the payment screen. Select the bank account from which to make the replacement payment, then submit payment. 
+					<strong>Note:</strong> You do not need to re-enter line items or the dollar amount.</p></li> 
+				</ul>
+			</div>
+			
+			<h3 id="changes">Remittance System Changes</h3>
+			<div>
+				<p>The following are the remittance system changes that went into effect for the stated month and year.</p>
+			
+				<table summary="Remittance System Changes by Month and Year">
+				<tr>
+					<td style="vertical-align: top; padding-left: 22px;">
+						<ul>
+							<li><a title="Link to CCRRS What's New July 2017 - This link will open in a new window" href="/taxes/Documents/flCcrrsWhatsNew0717.pdf" 
+							target="_blank">July 2017 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a></li>
+							<li><a title="Link to CCRRS What's New July 2016 - This link will open in a new window" href="/taxes/Documents/flCcrrsWhatsNew0716.pdf" 
+							target="_blank">July 2016 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a></li>
+							<li><a title="Link to CCRRS What's New August 2014 - This link will open in a new window" href="/taxes/Documents/flCcrrsWhatsNew0814.pdf" 
+							target="_blank">August 2014 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a></li>
+							<li><a title="Link to CCRRS What's New November 2014 - This link will open in a new window" href="/taxes/Documents/flCcrrsWhatsNew1113.pdf" 
+							target="_blank">November 2014 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a></li>
+							<li><a title="Link to CCRRS What's New July 2013 - This link will open in a new window" href="/taxes/Documents/flCcrrsWhatsNew0713.pdf" 
+							target="_blank">July 2013 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a></li>
+						</ul>
+					</td>
+					<td style="vertical-align: top; padding-left: 80px;">
+						<ul>
+							<li><a title="Link to CCRRS What's New March 2013 - This link will open in a new window" href="/taxes/Documents/flCcrrsWhatsNew0313.pdf" 
+							target="_blank">March 2013 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a></li>
+							<li><a title="Link to CCRRS What's New February 2013 - This link will open in a new window" href="/taxes/Documents/flCcrrsWhatsNew0213.pdf" 
+							target="_blank">February 2013 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a></li>
+							<li><a title="Link to CCRRS What's New November 2012 - This link will open in a new window" href="/taxes/Documents/flCcrrsWhatsNew1112.pdf" 
+							target="_blank">November 2012 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a></li>
+							<li><a title="Link to CCRRS What's New July 2012 - This link will open in a new window" href="/taxes/Documents/flCcrrsWhatsNew0712.pdf" 
+							target="_blank">July 2012 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a></li>
+							<li><a title="Link to CCRRS What's New July 2011 - This link will open in a new window" href="/taxes/Documents/flCcrrsWhatsNew0711.pdf" 
+							target="_blank">July 2011 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a></li>
+						</ul>
+					</td>
+					<td style="vertical-align: top; padding-left: 80px;">
+						<ul>
+							<li><a title="Link to CCRRS What's New August 2010 - This link will open in a new window" href="/taxes/Documents/flCcrrsWhatsNew0810.pdf" 
+							target="_blank">August 2010 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a></li>
+							<li><a title="Link to CCRRS What's New July 2009 - This link will open in a new window" href="/taxes/Documents/flCcrrsWhatsNew0709.pdf" 
+							target="_blank">July 2009 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a></li>
+							<li><a title="Link to CCRRS What's New February 2009 - This link will open in a new window" href="/taxes/Documents/flCcrrsWhatsNew0209.pdf" 
+							target="_blank">February 2009 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a></li>
+							<li><a title="Link to CCRRS What's New August 2008 - This link will open in a new window" href="/taxes/Documents/flCcrrsWhatsNew0808.pdf" 
+							target="_blank">August 2008 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a></li>
+						</ul>
+					</td>
+				</tr>
+				</table>
+
+			</div>
+			
+			<h3 id="update">Updating Information</h3>
+			<div>
+				<ul>
+					<li><p>Change clerk's name: If you need to change the name of the clerk, send a request to the Department's Revenue Accounting Section 
+					explaining the reason for the change and include official documentation to substantiate the change.</p></li>
+					<li><p>Change your password: Log in to the <a title="Link to Clerk of Court Revenue Remittance System - This link will open in a new window" 
+					href="https://suntax.floridarevenue.com/" target="_blank">Clerk of Court Revenue Remittance System</a>, then select the "Account Information" tab. Select "Change 
+					User Password", enter the required information, then click "Save" for the change to take affect.</p></li>
+					<li><p>Contact Information on File and Pay page: Fill in the name, phone number and e-mail address of the person responsible for submitting 
+					the revenue remittance. This will be the person the Department contacts if problems occur with the transmission/payment.</p></li>
+				</ul>
+				
+			<h3 id="contact">Contact Information</h3>
+				<p>Revenue Accounting</p>
+					<ul style="padding-left: 22px;">
+						<li>Phone: 850-617-8586</li>
+						<li>Fax: 850-410-2526</li>
+						<li>Email: <a title="Link to Revenue Accounting Email" href="mailto:RevenueAccounting@floridarevenue.com">RevenueAccounting@floridarevenue.com</a></li>
+					</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- End Main Content -->

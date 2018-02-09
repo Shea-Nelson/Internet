@@ -1,0 +1,30 @@
+
+Here is the hard copy of the request template. We will restore the Web link ASAP.
+ 
+Program: 
+Page URL: 
+Change being requested: 
+(If content changes are being requested, requestor should provide current language and proposed language together—this information can also be included in a Word attachment if easier)
+(If document replacement is being requested, a link to the current document should be included, and the new replacement document should be attached)
+Reason for change: 
+Who has reviewed/approved this request: 
+ 
+--
+ 
+EXAMPLE 1:
+Program: EXE, Office of Communications
+Page URL: http://floridarevenue.com/Pages/media.aspx 
+Change being requested: Please update language in the first paragraph on this page.
+·        Current language: All media inquiries regarding the Florida Department of Revenue are handled by the Office of Communications.
+·        Proposed language: The Office of Communications handles media inquiries and relations on behalf of the Florida Department of Revenue.
+Reason for change: This language update is being requested to better conform to the Department’s overall tone. 
+Who has reviewed/approved this request: Valerie Wickboldt, Chelsea Eagle
+ 
+EXAMPLE 2:
+Program: GTA
+Page URL: http://floridarevenue.com/taxes/compliance/Pages/delinquent_taxpayer.aspx 
+Change being requested: 
+Please replace the ‘names of taxpayers who have large unresolved tax liabilities’ (http://floridarevenue.com/taxes/Documents/delinquent_taxes.xlsx) spreadsheet with the attached.
+Reason for change: To comply with s. 213.053(19)(a), F.S., Department shall update the delinquent taxpayers list monthly. The request satisfies the monthly update of content. 
+Who has reviewed/approved this request: Grace Reeves, Gail Frey
+ 

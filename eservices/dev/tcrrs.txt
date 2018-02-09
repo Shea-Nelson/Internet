@@ -1,0 +1,71 @@
+<!-- Start Main Content -->
+<div class="content_box">
+	<h2>Tax Collector Revenue Remittance System</h2>
+	<div>
+		<p>Florida tax collectors use the <a title="Link to Tax Collector Revenue Remittance System - This link will open in a new window" 
+		href="https://taxapps.floridarevenue.com/TaxCollector/" target="_blank">Tax Collector Revenue Remittance System</a> to electronically file and pay:</p>
+		
+			<ul style="padding-left: 22px;">
+				<li>State and local discretionary sales tax.</li>
+				<li>Motor vehicle warranty fees; and</li>
+				<li>Interest earned on investment of funds;</li>
+			</ul>
+
+	<!--	<div class="noticebox">
+			<h3>What's New</h3>
+				<ul style="padding-left: 22px;">
+					<li>This notice box would show when there is information to share</li>
+				</ul>
+		</div> -->
+		
+		<p>Tax collector remittances are due on a weekly  basis. The municipality or county officer must complete the online transaction before 5:00 p.m., ET, on the sixth working 
+		day following the close of the week in which the funds were received. For a list of payment due dates, review the Department's 
+		<span style="font-style: italic;">Florida e-Services Program Calendar of Remittance Dates for Municipalities and County Officers</span> 
+		(<a title="Link to Form DR-659C - This link will open in a new window" href="/Forms_library/current/dr659c.pdf" target="_blank">Form DR-659C 
+		<img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"/></a>). You may remit on a more frequent basis.</p>
+		
+		<p>Tax collectors who electronically file and pay on time are entitled to a collection allowance of 2.5% of the first $1,200 of sales tax due and reported on each 
+		return filed.</p>
+
+
+		<div class="table_colors" id="accordion_forms">
+			<h3 id="efile">Electronic File and Pay</h3>
+			<div>				
+				<ul>
+					<li><p>When you have submitted your report and payment, a summary of the tax or fee remitted and the payment information will be displayed. Save or print this page 
+					for your records. <strong>Note:</strong> You will not have access to this page after you log out.</p></li>
+					
+					<li><p>The Department will notify you of a failed electronic payment. To replace failed payments, log in to the 
+					<a title="Link to Remit Taxes, Fees and Interest - This link will open in a new window" href="https://taxapps.floridarevenue.com/TaxCollector/" target="_blank">Tax 
+					Collector Revenue Remittance System</a>, then select the "Returned Item Repayment" option to resubmit the payment. Select the original collection period and enter 
+					the original payment amount. <strong>Note:</strong> Do not resubmit a tax or fee report.</p></li>
+				</ul>
+			</div>
+			
+			<h3 id="update">Updating Information</h3>
+			<div>
+				<ul>
+					<li><p>To change the tax collector's name, email or fax a request to the Department's Revenue Accounting Section, explaining the reason for the change and include official documentation to support the 
+					change, (e.g., Certificate of Election).</p></li>
+					<li><p>To change the banking or contact information for a single submission, enter the new banking information instead of selecting the option to use the banking 
+					information on file. This change will only be effective for the current submission and will not update the banking information on file with the Department. To 
+					make a permanent change to this information, update your e-Services profile by accessing the Department's 
+					<a title="Link to e-Services Enrollment - This link will open in a new window" href="https://taxapps.floridarevenue.com/EEnrollment/" target="_blank">e-Services 
+					Enrollment</a> web page, then selecting the "Update e-Enrollment" option.</p></li>
+					<li><p>To change your password, email or fax a request to the Department's Revenue Accounting Section, and include your User ID, old password, and the new password you are requesting. New passwords 
+					must be numeric (0-9) and must be eight (8) digits in length.</p>
+					</li>
+				</ul>
+						
+				<h3 id="contact">Contact Information</h3>
+					<p>Revenue Accounting</p>
+						<ul style="padding-left: 22px;">
+							<li>Phone: 850-617-8586</li>
+							<li>Fax: 850-410-2526</li>
+							<li>Email: <a title="Link to Revenue Accounting Email" href="mailto:RevenueAccounting@floridarevenue.com">RevenueAccounting@floridarevenue.com</a></li>
+						</ul>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- End Main Content -->

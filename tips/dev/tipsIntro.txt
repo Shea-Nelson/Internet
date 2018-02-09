@@ -1,0 +1,46 @@
+<div id="tips">
+	<p>Tax Information Publications (TIPs) are provided for reference and information. Each TIP deals with specific tax issues that do not necessarily affect all taxpayers. Please read 
+	the TIP to determine if the information affects you. If you have questions, call Taxpayer Services at 850-488-6800, Monday-Friday, excluding holidays. Sign up for the Department's 
+	<a title="Link to Subscription Service href="/Pages/subscribe.aspx">subscription service</a> to receive an 
+	email when a new TIP is posted.</p>
+
+   <hr size="1"/> 
+   <br/> 
+   <strong>TIP Archive:&#160;&#160;</strong>
+   <a href="/taxes/tips/Pages/1998.aspx">1998</a>&#160;|&#160; 
+   <a href="/taxes/tips/Pages/1999.aspx">1999</a>&#160;|&#160; 
+   <a href="/taxes/tips/Pages/2000.aspx">2000</a>&#160;|&#160; 
+   <a href="/taxes/tips/Pages/2001.aspx">2001</a>&#160;|&#160; 
+   <a href="/taxes/tips/Pages/2002.aspx">2002</a>&#160;|&#160; 
+   <a href="/taxes/tips/Pages/2003.aspx">2003</a>&#160;|&#160; 
+   <a href="/taxes/tips/Pages/2004.aspx">2004</a>&#160;|&#160; 
+   <a href="/taxes/tips/Pages/2005.aspx">2005</a>&#160;|&#160; 
+   <a href="/taxes/tips/Pages/2006.aspx">2006</a>&#160;|&#160; 
+   <a href="/taxes/tips/Pages/2007.aspx">2007</a>&#160;|&#160; 
+   <a href="/taxes/tips/Pages/2008.aspx">2008</a>&#160;|&#160; 
+   <a href="/taxes/tips/Pages/2009.aspx">2009</a>&#160;|&#160; 
+   <a href="/taxes/tips/Pages/2010.aspx">2010</a>&#160;|&#160; 
+   <a href="/taxes/tips/Pages/2011.aspx">2011</a>&#160;|&#160; 
+   <a href="/taxes/tips/Pages/2012.aspx">2012</a>&#160;|&#160; 
+   <a href="/taxes/tips/Pages/2013.aspx">2013</a>&#160;|&#160; 
+   <a href="/taxes/tips/Pages/2014.aspx">2014</a>&#160;|&#160; 
+   <a href="/taxes/tips/Pages/2015.aspx">2015</a>&#160;|&#160; 
+   <a href="/taxes/tips/Pages/2016.aspx">2016</a>&#160;|&#160; 
+   <a href="/taxes/tips/Pages/default.aspx">2017</a><br/><br/>
+   <p> 
+      <strong>TIP # and Date Issued</strong></p>
+</div>
+<script>
+$(function() {
+var pn = window.location.pathname;
+if(pn == "/taxes/tips"){ pn = "/taxes/tips/Pages/default.aspx"; }
+if(pn == "/taxes/tips/"){ pn = "/taxes/tips/Pages/default.aspx"; }
+$('a').each(function () {
+if($(this).attr('href') == pn){
+$(this).removeAttr("href");
+var nu = $(this).text();
+$(this).replaceWith(nu.bold());
+}
+});
+});
+</script>

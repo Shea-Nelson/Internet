@@ -1,0 +1,455 @@
+﻿<!-- Start Main Content -->
+<div class="content_box">
+  <h2>Florida Tax and Interest Rates</h2>
+  <div>
+		<p>The <strong>Interest Rates</strong> section identifies interest rates for the late payment of tax, and includes instructions on how to calculate interest due. 
+		This section applies to all tax types.</p>
+		
+		<p><strong>Tax Rates</strong> vary depending on the tax so, unlike the interest rates, tax rates are separated and listed by tax type. The list below includes the most 
+		common taxes the Florida Department of Revenue administers. For more information on a specific tax, see the Department's <a title="Link to Taxes and Fees or Refunds" 
+		href="/taxes/taxesfees/Pages/default.aspx">Taxes and Fees or Refunds</a> web page.</p>
+
+
+  <div class="table_colors" id="accordion_forms">
+   <h3 id="interest">Interest Rates</h3>
+   <div>
+	 
+     <p>Interest is assessed on the amount of taxes or fees due that was not paid on time. This includes late or underpayments of taxes or fees, and collection allowances 
+		 (credits) that have been reduced due to underpayments of tax or disallowed because the return was filed late. A floating rate of interest applies. Florida&#39;s interest 
+		 rate is updated twice a year, on January 1 and July 1. Current and past year&#39;s interest rates are published in <a title="Link to Tax Information Publications" 
+		 target="_blank" href="/taxes/tips/Pages/default.aspx">Tax Information Publications (TIPs)</a>.</p>
+		 
+			<ul style="padding-left: 22px;">
+				<li>The floating rate of interest remains at 8% for January 1, 2018 through June 30, 3018. Read more in 
+				<a title="Link to Tax Information Publication #17ADM-02 - This will open in a new window" 
+				href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2017/11/TIP-121501_TIP%2017ADM-02%20FINAL%20RLL.pdf" 
+				target="_blank">TIP #17ADM-02 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"/></a>.
+				</li>
+				<li>The floating rate of interest is 8% for July 1, 2017 through December 31, 2017. Read more in 
+				<a title="Link to Tax Information Publication #17ADM-01 - This will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2017/05/TIP-121082_TIP%2017ADM-01%20Floating%20Rate%20of%20Interest%20%2007-01-17%20through%2012-31-17%20-%20FINAL.pdf" 
+				target="_blank">TIP #17ADM-01 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"/></a>.</li>
+			</ul>
+		 
+     <p>To calculate interest due with your tax return:</p>
+		 
+     <ol style="padding-left: 22px;">
+      <li>Get the daily interest rate factor(s) for the filing period(s) from the appropriate Tax Information Publication. </li>
+      <li>Calculate the number of days your return is late by counting the number of days from the “late after” date on the return through the date the return and payment are 
+			postmarked by the U.S. Postal Service or hand-delivered to the Florida Department of Revenue. Include the day the return and payment are postmarked or 
+			hand-delivered when calculating the number of days late.</li>
+      <li>Multiply the amount of tax due by the number of days late and then by the appropriate daily interest rate factor(s).</li>
+     </ol>
+     <p> 
+      <strong>Example 1:</strong> A taxpayer owed $1,000 with his November 2013 Florida sales and use tax return (due 12/20/13). The taxpayer filed the return and paid the tax due on 
+March 10, 2014. The return and payment are 80 days late and the daily interest rate for December 2013 to March 2014 was used. The interest amount due is computed as follows:</p>
+     <table class="tableBorderCenter" summary="Example of calculating interest due with a tax return">
+      <tbody>
+        <tr>
+         <th>Tax Due</th>
+         <th>x</th>
+         <th>Number of Days Late</th>
+         <th>x</th>
+         <th>Daily Interest Rate Factor</th>
+         <th>=</th>
+         <th>Interest Due</th>
+        </tr>
+        <tr>
+         <td>$1,000</td>
+         <td>x</td>
+         <td>80 (12/21/13-3/10/14)</td>
+         <td>x</td>
+         <td>.000191781</td>
+         <td>=</td>
+         <td>$15.34</td>
+        </tr>
+      </tbody>
+     </table>
+     <p> 
+      <strong>Example 2:</strong> A taxpayer owed $5,000 with their September 2009 Florida sales and use tax return (due 10/20/09). The taxpayer filed the return and paid the tax 
+			on February 10, 2010. The return and payment are 113 days late. Two different daily interest rate factors must be used in the calculation because the interest rate changed on 
+			January 1, 2010. For the period 10/20/09 to 12/31/09 the daily interest rate is .000219178 and for the period 1/1/10 to 2/10/10 the daily interest rate is .000191781. The 
+			interest amount due is computed as follows:</p>
+     <table class="tableBorderCenter" summary="Example of calculating interest due with a tax return">
+      <tbody>
+        <tr>
+         <th>Tax Due</th>
+         <th>x</th>
+         <th>Number of Days Late</th>
+         <th>x</th>
+         <th>Daily Interest Rate Factor</th>
+         <th>=</th>
+         <th>Interest Due</th>
+        </tr>
+        <tr>
+         <td>$5,000</td>
+         <td>x</td>
+         <td>72 (from 10/21/09 to 12/31/09)</td>
+         <td>x</td>
+         <td>.000219178</td>
+         <td>=</td>
+         <td>$ 78.90</td>
+        </tr>
+        <tr>
+         <td>$5,000</td>
+         <td>x</td>
+         <td>41 (from 1/1/10 to 2/10/10)</td>
+         <td>x</td>
+         <td>.000191781</td>
+         <td>=</td>
+         <td>$ 39.32</td>
+        </tr>
+        <tr>
+         <td colspan="7" style="text-align: right; padding-right: 20px; font-weight: bold;">Total Interest Due: $118.22</td>
+        </tr>
+      </tbody>
+     </table>
+   </div>
+
+
+   <h3 id="communications">Communications Services Tax Rates</h3>
+   <div>
+     <p>For a list of current and historical local tax rates, which includes upcoming rate changes, go to: 
+      <a title="Link to the Historical, Current and Upcoming Local Rates - This will open in a new window" target="_blank" href="/taxes/Documents/cst_rate_table.xlsx">Historical, Current and Upcoming Local Rates <img alt="Excel Icon" src="/PublishingImages/Excel-icon.png"/></a>.</p>
+     <p>For a list of current local rates only go to: 
+      <a title="Link to the Communications Services Tax Rate Table - This will open in a new window" target="_blank" href="https://pointmatch.floridarevenue.com/General/CommunicationsServicesTaxRates.aspx">Communications Services Tax Rate Table</a>.</p>
+	 <p>If you need tax rates for a specific address, use the Department's 
+      <a title="Link to the Address/Jurisdiction Database - This will open in a new window" target="_blank" href="https://pointmatch.floridarevenue.com/Default.aspx">Address/Jurisdiction Database</a>. The database contains the following rates for each address: sales 
+			and use tax, discretionary sales surtax, and communications services tax.</p>
+   </div>
+   <h3 id="corporate">Corporate Income Tax Rate</h3>
+   <div>
+     <p>Florida&#39;s corporate income tax rate is 5.5%.&#160; Read the Department's 
+      <a title="Link to the Corporate Income Tax Page - This will open in a new window" target="_blank" href="/taxes/taxesfees/Pages/corporate.aspx">Corporate Income Tax</a> web page for more information.</p>
+   </div>
+   <h3 id="fuel">Fuel and Pollutant Tax Rates</h3>
+   <div>
+		<h3 id="pollutant">Fuel Tax Rates</h3>
+     <p>Find rates for <a title="Link to the Current Year Fuel Tax Rates - This will open in a new window" target="_blank" href="/taxes/Documents/17B05-03_chart.pdf">2018 <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a> and
+
+<a title="Link to the 2017 Fuel Tax Rates - This will open in a new window" target="_blank" href="/taxes/Documents/16b05-02_chart.pdf">2017 <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a>
+     <h3 id="pollutant">Pollutants Tax Rates</h3>
+     
+      <table class="tableBorderLeft" summary="Pollutant Tax Rates">
+        <tbody>
+		 <tr>
+		   <th>Pollutant Type</th>
+           <th>Tax Rate</th>
+         </tr>
+         <tr>
+           <td>Coastal Protection</th>
+           <td>2 cents per barrel</td>
+         </tr>
+         <tr>
+           <td>Inland Protection</th>
+           <td>80 cents per barrel</td>
+         </tr>
+         <tr>
+           <td>Hazardous Waste Management</th>
+           <td>$5 per gallon of perchloroethylene</td>
+         </tr>
+         <tr>
+           <td>Water Quality</th>
+           <td>
+            <ul>
+              <li>2.5 cents per gallon of motor oil and other lubricants </li>
+              <li>5.9 cents per gallon of solvents (including perchloroethylene)</li>
+              <li>5 cents per barrel of petroleum products, pesticides, and chlorine </li>
+              <li>2 cents per barrel of ammonia</li>
+            </ul>
+           </td>
+         </tr>
+        </tbody>
+      </table>
+      <p><strong>Note:</strong> Pollutants tax rates are not tied to the Consumer Price Index and do not change each year.</p>
+     
+   </div>
+   <h3 id="gross">Gross Receipts Tax Index Prices</h3>
+   <div>
+		<table class="tableBorderCenter" Summary="Natural/Manufactured Gas Index Prices">
+			<caption style="font-weight: bold;"><p> 
+			Natural/Manufactured Gas Index Prices per 1,000 cubic feet<br>effective July 1, 2017 through June 30, 2018</p></caption>
+			<tbody>
+				<tr>
+					<th>Residential</th>
+					<th>Commercial</th>
+					<th>Industrial</th>
+				</tr>
+				<tr>
+					<td>$19.25</td>
+					<td>$10.58</td>
+					<td>$5.71</td>
+				</tr>
+			</tbody>
+		</table>
+		<p>For more information, read 
+      <a title="Link to Tax Information Publication #17B06-01 - This will open in a new window" target="_blank" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2017/05/TIP-121141_TIP%2017B06-01%20FINAL%20RLL.pdf ">TIP #17B06-01 <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a>.
+		</p>
+	 
+		<table class="tableBorderCenter" Summary="Natural/Manufactured Gas Index Prices">
+			<caption style="font-weight: bold;"><p>
+			Natural/Manufactured Gas Index Prices per 1,000 cubic feet<br>effective December 1, 2016 through June 30, 2017</p></caption>
+			<tbody>
+				<tr>
+					<th>Residential</th>
+					<th>Commercial</th>
+					<th>Industrial</th>
+				</tr>
+				<tr>
+					<td>$19.29</td>
+					<td>$10.74</td>
+					<td>$6.43</td>
+				</tr>
+			</tbody>
+		</table>
+		<p>For more information, read 
+      <a title="Link to Tax Information Publication #16B06-02 - This will open in a new window" target="_blank" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2016/10/TIP-120678_TIP 16B06-02 Updated Index Price for Industrial Natural Gas - FINAL RLL.pdf">TIP #16B06-02 <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a>.
+		</p>
+   </div>
+  <h3 id="municipal">Municipal Public Service Tax Rates</h3>
+  <div>
+        <p>Municipalities and charter counties collect municipal public service tax (MPST) and report the tax rates to the Florida Department of Revenue. You can 
+         <a title="Link to Search MPST Database - This will open in a new window" target="_blank" href="https://taxapp2.floridarevenue.com/gta/mpst_app/">search the Department's MPST database</a> or 
+         download a spreadsheet containing all <a title="Link to MPST Rates" href="/taxes/Documents/mpst.xlsx">MPST rates <img alt="Excel Icon" 
+src="/PublishingImages/Excel-icon.png"/></a>.</p>
+	</div>
+
+	<h3 id="reemployment">Reemployment (Unemployment) Tax Rate</h3>
+	<div>
+		<p>When a new employer becomes liable for the tax, the rate is 2.7% (.0270) and remains at that rate until the employer has reported for 10 quarters (11 quarters 
+		in some cases). At that time, a tax rate will be calculated using the employment record and the rating factors, which are built into the Reemployment Assistance Program Law. 
+		Rate notices are mailed to all contributing employers each year in December. An employer may appeal the tax rate within 20 days from the date of notification 
+		(date printed on the Reemployment Tax Rate Notice (Form RT-20). The maximum tax rate allowed by law is 5.4% (.0540), except for employers participating in the Short 
+		Time Compensation Program. Visit the Department's <a title="Link to Reemployment Tax Page - This will open in a new window" target="_blank" href="/taxes/taxesfees/Pages/reemployment.aspx">Reemployment Tax</a> web page for more information.</p>
+	</div>
+   <h3 id="sales">Sales and Use Tax, Surtax, E911 Fee, Asphalt Use Tax Index Rates</h3>
+   <div>
+     <h3>Sales and Use Tax and Discretionary Sales Surtax Rates</h3>
+     
+		<p>Florida&#39;s general sales and use tax rate is 6%; however, other rates may apply based on the type of sale (e.g., 4% on amusement machine receipts and 6.95% on 
+		electricity). Discretionary sales surtax (also called county tax) is imposed by many Florida counties and applies to most transactions subject to sales tax. The Florida 
+		Department of Revenue collects both taxes and distributes the surtax back to the counties. The discretionary sales surtax rate depends on the county. To 
+		compute the sales tax rate for each county, add the local option surtax rate to the general sales tax rate. The <span style="font-style: italic;">Discretionary Sales 
+		Surtax Information</span> (<a title="Link to Form DR-15DSS - This will open in a new window" target="_blank" href="/Pages/forms_index.aspx#discretionary">Form DR-15DSS)</a> lists the counties and their rates. 
+		The <a title="Link to History of Local and Current Sales Tax Rates - This will open in a new window" target="_blank" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/01/OTH-121551_History%20of%20Sales%20Tax%20%2001012018.pdf" style="font-style: italic;">History 
+of Local and Current Sales Tax Rates <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"/></a> lists the counties and their historical local tax rates.</p>
+		
+		<p>When sales transactions fall below or in between whole dollar amounts, you must use the bracket system to calculate the tax between whole dollar amounts. Under the 
+		bracket system, the actual tax collected may be more than a straight percentage of the total sales made during the reporting period. <p>The 
+		<span style="font-style: italic;">Common Sales Tax Brackets</span> (<a title="Link to Form DR-2X - This will open in a new window" target="_blank" href="/Forms_library/current/dr2x.pdf">Form DR-2X <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a>) 
+		includes brackets for the combined state rate and various discretionary sales surtax rates.</p>
+			
+    <table class="tableBorderCenter" summary="Additional Individual Sales and Use Tax Brackets">
+<caption style="font-weight: bold;"><p>Additional Individual Sales and Use Tax Brackets</p></caption>
+      <tbody>
+        <tr>
+         <td> 
+           <a title="Link to 4.0% Individual Tax Bracket - This will open in a new window" target="_blank" href="/taxes/Documents/dr2g_4.pdf">4.0% <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a></td>
+         <td> 
+           <a title="Link to 5.5% Individual Tax Bracket - This will open in a new window" target="_blank" href="/taxes/Documents/dr2j_5.5.pdf">5.5% <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a></td>
+         <td> 
+           <a title="Link to 7.0% Individual Tax Bracket - This will open in a new window" target="_blank" href="/taxes/Documents/dr2c_7.pdf">7.0% <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a></td>
+        </tr>
+        <tr>
+         <td> 
+           <a title="Link to 4.5% Individual Tax Bracket - This will open in a new window" target="_blank" href="/taxes/Documents/dr2h_4.5.pdf">4.5% <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a></td> 
+		 <td>
+           <a title="Link to 6.0% Individual Tax Bracket - This will open in a new window" target="_blank" href="/taxes/Documents/dr2a_6.pdf">6.0% <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a></td>
+         <td> 
+           <a title="Link to 7.5% Individual Tax Bracket - This will open in a new window" target="_blank" href="/taxes/Documents/dr2d_7.5.pdf">7.5% <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a></td>
+        </tr>
+	    <tr>
+         <td> 
+           <a title="Link to 5.0% Individual Tax Bracket - This will open in a new window" target="_blank" href="/taxes/Documents/dr2i_5.pdf">5.0% <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a></td>
+         <td> 
+           <a title="Link to 6.5% Individual Tax Bracket - This will open in a new window" target="_blank" href="/taxes/Documents/dr2b_6.5.pdf">6.5% <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a></td>
+         <td> 
+           <a title="Link to 8.0% Individual Tax Bracket - This will open in a new window" target="_blank" href="/taxes/Documents/dr2e_8.pdf">8.0% <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a></td>
+	    </tr>
+      </tbody>
+     </table>
+<br />		
+
+    <table class="tableBorderCenter" summary="Individual Sales and Use Tax Brackets on Taxable Charges for Electricity">
+		<caption style="font-weight: bold;"><p>Individual Sales and Use Tax Brackets for Electricity<br />per Section 203.01(1)(a)3. and Chapter 212, Florida Statutes</p></caption>
+
+      <tbody>
+        <tr>
+					<td> 
+            <a title="Link to 2.60% Tax Bracket for Electricity - This will open in a new window" target="_blank" href="/taxes/Documents/dr2jj_2.6.pdf">2.60% <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a></td>
+           <td> 
+            <a title="Link to 5.85% Tax Bracket for Electricity - This will open in a new window" target="_blank" target="_blank" href="/taxes/Documents/dr2dd_5.85.pdf">5.85% <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a></td>
+           <td> 
+            <a title="Link to 7.95% Tax Bracket for Electricity - This will open in a new window" target="_blank" target="_blank" href="/taxes/Documents/dr2gg_7.95.pdf">7.95% <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a></td>
+         </tr>
+         <tr>
+           <td> 
+            <a title="Link to 4.35% Tax Bracket for Electricity - This will open in a new window" target="_blank" target="_blank" href="/taxes/Documents/dr2aa_4.35.pdf">4.35% <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a></td>
+           <td> 
+            <a title="Link to 6.35% Tax Bracket for Electricity - This will open in a new window" target="_blank" href="/taxes/Documents/dr2tt_6.35.pdf">6.35% <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a></td>
+           <td> 
+            <a title="Link to 8.45% Tax Bracket for Electricity - This will open in a new window" target="_blank" href="/taxes/Documents/dr2hh_8.45.pdf">8.45% <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a></td>
+         </tr>
+         <tr>
+           <td> 
+            <a title="Link to 4.85% Tax Bracket for Electricity - This will open in a new window" target="_blank" href="/taxes/Documents/dr2bb_4.85.pdf">4.85% <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a></td>
+           <td> 
+            <a title="Link to 6.95% Tax Bracket for Electricity - This will open in a new window" target="_blank" href="/taxes/Documents/dr2ee_6.95.pdf">6.95% <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a></td>
+           <td> 
+            <a title="Link to 8.95% Tax Bracket for Electricity - This will open in a new window" target="_blank" href="/taxes/Documents/dr2nn_8.95.pdf">8.95% <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a></td>
+         </tr>
+         <tr>
+           <td> 
+            <a title="Link to 5.35% Tax Bracket for Electricity - This will open in a new window" target="_blank" href="/taxes/Documents/dr2cc_5.35.pdf">5.35% <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a></td>
+           <td> 
+            <a title="Link to 7.45% Tax Bracket for Electricity - This will open in a new window" target="_blank" href="/taxes/Documents/dr2ff_7.45.pdf">7.45% <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a></td>
+           <td></td>
+		 </tr>
+        </tbody>
+      </table>
+
+		<p>If you need tax rates for a specific address, use the Department's 
+      <a title="Link to Address/Tax Rate Lookup Database" target="_blank" href="https://pointmatch.floridarevenue.com/Default.aspx">Address/Tax Rate Lookup Database</a>. The database contains the following rates for each address: sales 
+			and use tax, discretionary sales surtax, and communications services tax.</p>
+
+	
+     <h3 id="e911">Prepaid Wireless E911 Fee</h3>
+     
+      <p>The prepaid wireless E911 fee is 40 cents on the sale of each prepaid wireless service that allows a caller to connect to and interact with 
+			the Enhanced 911 (E911) System. If a prepaid wireless device is sold with prepaid wireless service of 10 minutes or less, or for $5 or less, the seller may elect not 
+			to apply the prepaid wireless E911 fee to the sale.</p>
+			
+      <p>The E911 Board may adjust the rate of the fee, if necessary, to ensure full cost recovery or prevent over-recovery of costs incurred in providing 
+			E911 service. Any rate change will be posted to the Department's website. A written notice for each fee rate change will be issued to sellers at 
+			least 90 days before the effective date of the change.</p>
+    
+		<h3 id="asphalt">Asphalt Use Tax Index</h3>
+    
+      <p>The tax rate used by contractors who manufacture and use asphalt during fiscal year July 1, 2017 through June 30, 2018 is 75 cents per ton. For more information, read  
+			<a title="Link to Tax Information Publication #17A01-06 - This will open in a new window" target="_blank" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2017/06/TIP-121165_TIP%2017A01-06%20FINAL%20RLL.pdf">Tax Information Publication #17A01-06 <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a>.</p>
+    
+   </div>	 
+   <h3 id="severance">Severance Tax Rates (Solid Mineral Severance, Gas and Sulfur Production, Oil Production, and Miami-Dade County Lake Belt Mitigation Fee/Water Treatment 
+	 Plant Upgrade Fees)</h3>
+   <div>
+     <h3 id="miami">Miami-Dade Lake Belt Mitigation Fee</h3>
+     
+      <p>Use the following mitigation fee rates and water treatment plant upgrade fee rate:</p>
+      
+	<h3 style="padding-left: 10px; color: #000000;">Mitigation Fee Rates:</h3>
+      <table class="tableBorderCenter" summary="Mitigation Fee Rates">
+        <tbody>
+         <tr>
+           <td width="75%" >July 1, 2015 through December 31, 2015</td>
+           <td>45 cents</td>
+         </tr>
+         <tr>
+           <td>Calendar year 2016</td>
+           <td>25 cents</td>
+         </tr>
+         <tr>
+           <td>Calendar year 2017</td>
+           <td>15 cents</td>
+         </tr>
+         <tr>
+           <td>Calendar year 2018, and thereafter</td>
+           <td>5 cents</td>
+         </tr>
+        </tbody>
+      </table>
+      <p style="padding-left: 25px;">These fee rates should be used indefinitely until a statutory change is enacted by law.</p>
+      
+	<h3 style="padding-left: 10px; color: #000000;">Water Treatment Plant Upgrade Fee Rate:</h3>
+      <table class="tableBorderCenter" summary="Mitigation Fee Rates">
+        <tbody>
+         <tr>
+           <td width="75%" >July 1, 2015 through June 30, 2018*</td>
+           <td>6 cents</td>
+         </tr>
+        </tbody>
+      </table>
+      <p style="padding-left: 25px;"><strong>Note:</strong> The Water Treatment Plant Upgrade Fee expires on July 1, 2018. For more information, read 
+        <a title="Link to Tax Informaiton Publication #15B-07 - This will open in a new window" target="_blank" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2015/06/TIP-119384_TIP 15B07-03 Lake Belt Mitigation Fees - TIP FINAL3.pdf" 
+			 > TIP #15B07-03 <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a>.</p></span>
+    
+     <h3>Gas and Sulfur Production Tax Rates</h3>
+    
+      <p>For gas and sulfur tax rates for the year 2017-2018, read 
+        <a title="Link to Tax Information Publicatoin #17B07-02 - This will open in a new window" target="_blank" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2017/05/TIP-121140_TIP%2017B07-02%20FINAL%20RLL.pdf"> TIP #17B07-02 <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a>.</p>
+    
+     <h3>Oil Production Tax Rates</h3>
+    
+      <table class="tableBorderLeft" summary="Oil production tax rates">
+        <tbody>
+         <tr>
+           <th width="34%">Ordinary Oil Production</th>
+           <td>8%</td>
+         </tr>
+         <tr>
+           <th>Small Well Production</th>
+           <td>5%</td>
+         </tr>
+         <tr>
+           <th>Tertiary Oil Production</th>
+           <td>
+            <ul>
+              <li>1% is levied on the first $60.00 of value</li>
+              <li>7% is levied on a value greater than $60.00 and less than $80.00</li>
+              <li>9% is levied on a value greater than $80.00</li>
+            </ul>
+<p>See <a title="Link to Tax Information Publication #09B07-03R - This will open in a new window" target="_blank" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2009/06/TIP-99734_SEV TIP 09B07-03R.pdf">TIP #09B07-03R <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a></p></td>
+         </tr>
+         <tr>
+           <th>Escaped oil production</th>
+           <td>12.5%</td>
+         </tr>
+        </tbody>
+      </table>
+      <p style="padding-left: 25px;"><strong>Note:</strong> Oil production rates are not tied to the Consumer Price Index and do not change each year.</p>
+    
+    <h3>Solid Mineral Tax Rates</h3>
+     
+      <p>For solid mineral tax rates for the year 2017, read <a title="Link to Tax Information Publication #17B07-01 - This will open in a new window" target="_blank" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2017/03/TIP-120932_TIP%2017B07-01%20Solid%20Mineral%20Tax%20Rates%20for%20Year%202017-FINAL%20RLL.pdf" 
+			 >TIP #17B07-01 <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a>.</p>
+    
+	</div>
+	
+  <h3 id="tourist">Transient Rentals Local Tax Rates</h3>
+  <div>
+    <p>Local option taxes on transient rentals vary by county. To see current rates and whether the local tax is paid to the Florida Department of Revenue or the 
+		county, access the <span style="font-style: italic;">County Local Option Transient Rental Tax Rates Grouped by Administration</span> (<a title="Link to Form DR-15TDT - This will open in a new window" target="_blank" href="/Forms_library/current/dr15tdt.pdf">Form DR-15TDT <img alt="PDF Icon" 
+src="/PublishingImages/pdficon_small.png"/></a>).</p>
+  </div>
+  </div>
+	</div>
+</div>
+<!-- End Main Content -->

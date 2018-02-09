@@ -1,0 +1,61 @@
+<!-- Start Main Content -->
+<div class="content_box">
+	<h2>Red Light Camera Remittance System</h2>
+	<div>
+		<p>Red light camera fees, fines and taxes are remitted using the <a title="Link to Remit Taxes, Fines, and Fees - This link will open in a new window" 
+			href="https://suntax.floridarevenue.com/" target="_blank">Red Light Camera Remittance System</a>.</p>
+				
+			<p>Remittances are due on a weekly basis. The municipality or county officer must complete the online transaction before 5:00 p.m., ET, on the sixth working day following 
+			the close of the week in which the funds were received. For a list of payment due dates, review the Department's <span style="font-style: italic;">Florida e-Services 
+			Program Calendar of Remittance Dates for Municipalities and County Officers</span> (<a title="Link to Form DR-659C - This link will open in a new window" 
+			href="/Forms_library/current/dr659c.pdf" target="_blank">Form DR-659C <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"/></a>).</p>		
+		
+	<!--	<div class="noticebox">
+			<h3>What's New</h3>
+				<ul style="padding-left: 22px;">
+					<li>This notice box would show when there is information to share</li>
+				</ul>
+		</div> -->
+		<div class="table_colors" id="accordion_forms">
+			<h3 id="remit">Electronic File and Pay</h3>
+			<div>
+				<ul>
+					<li><p>Records: Once a filing is submitted, it is stored for review in the Remittance History area until the detail 
+					is posted and the payment is fully processed between financial institutions.</p></li>
+					
+					<li><p>Correcting a previous submission: As soon as you determine that a submission has been made in error (i.e., funds entered on incorrect line, incorrect 
+					amount of funds entered, etc.), email the Department's <a title="Link to Revenue Accounting Email" 
+					href="mailto:RevenueAccounting@floridarevenue.com">Revenue Accounting</a> section, or call 850-617-8586, to facilitate the correction.</p></li>
+					
+					<li><p>Replacing a failed electronic payment: Log in to the <a title="Link to Red Light Camera Remittance System - This link will open in a new window" 
+					href="https://suntax.floridarevenue.com/" target="_blank">Red Light Camera Remittance System</a>, then select the "Returned Item" tab. Select the item that failed, 
+					then click "Select" to proceed to the payment screen. Select the bank account from which to make the replacement payment, then submit payment. 
+					<strong>Note:</strong> You do not need to re-enter line items or the dollar amount.</p></li> 
+				</ul>
+			</div>
+
+			<h3 id="update">Updating Information</h3>
+			<div>
+				<ul>
+					<li><p>WHERE DO YOU SEND THE REQUEST? Change local government name: Should you need to change the name of the local government, please send a request to the e-Services Unit explaining the 
+					reason for the change and include official documentation to substantiate the change.</p></li>
+					<li><p>Change your password: Log in to the <a title="Link to Red Light Camera Remittance System - This link will open in a new window" 
+					href="https://suntax.floridarevenue.com/" target="_blank">Red Light Camera Remittance System</a>, then select the "Account Information" tab. Select "Change 
+					User Password", enter the required information, then click "Save" for the change to take affect.</p></li>
+					<li><p>WHERE DO YOU DO THIS? Contact Information on File and Pay page: Fill in the name, phone number and e-mail address of the person responsible for submitting 
+					the revenue remittance. This will be the person the Department contacts if problems occur with the transmission/payment.</p></li>
+				</ul>
+				
+				<h3 id="contact">Contact Information</h3>
+					<p>Revenue Accounting</p>
+						<ul style="padding-left: 22px;">
+							<li>Phone: 850-617-8586</li>
+							<li>Fax: 850-410-2526</li>
+							<li>Email: <a title="Link to Revenue Accounting Email" href="mailto:RevenueAccounting@floridarevenue.com">RevenueAccounting@floridarevenue.com</a></li>
+						</ul>
+			</div>
+			
+		</div>
+	</div>
+</div>
+<!-- End Main Content -->
