@@ -1,0 +1,308 @@
+﻿<!-- Start Main Content -->
+<div class="content_box">
+	<h2>Florida ​Fuel Tax​​​​​</h2>
+	<div>
+		<p>The Florida Department of Revenue is responsible for administering fuel taxes for the state of Florida. For purposes of tax administration, fuel is defined as motor, 
+		diesel, aviation, or natural gas fuel.</p>
+		
+			<ul style="padding-left: 22px;">
+				<li><strong>Motor Fuel or Fuel:</strong> All gasoline products or any product blended with gasoline or any fuel placed in the storage supply tank of a 
+				gasoline-powered motor vehicle.</li>
+				<li><strong>Diesel Fuel:</strong> All petroleum distillates commonly known as diesel #2, biodiesel, or any other product blended with diesel or any product placed 
+				into the storage supply tank of a diesel-powered motor vehicle.</li>
+				<li><strong>Aviation Fuel:</strong> Fuel for use in aircraft, including aviation gasoline and aviation turbine fuels and kerosene, as determined by the American 
+				Society for Testing Materials specifications D-910 or D-1655, or current specifications.</li>
+				<li><strong>Natural Gas Fuel:</strong> Any liquefied petroleum gas product, compressed natural gas product, or combination thereof used in a motor vehicle as defined 
+				in Section 206.01(23), Florida Statutes (F.S.). This term includes, but is not limited to, all forms of fuel commonly or commercially known or sold as natural 
+				gasoline, butane gas, propane gas, or any other form of liquefied petroleum gas, compressed natural gas, or liquefied natural gas. This term does not include natural 
+				gas or liquefied petroleum placed in a separate tank of a motor vehicle for cooking, heating, water heating, or electric generation.</li>
+			</ul>
+		
+		<p>Fuel tax is imposed on the ultimate consumer, but pre-collected for administrative convenience. The tax rates assessed on fuel are adjusted each year and are valid from 
+		January 1 to December 31. Fuel tax is due each month and includes the inspection fee, state tax, local option tax, and pollutants tax. The administration of fuel tax is 
+		found in Chapters 206 and 336, F.S., and in Rule Chapter 12B-5, Florida Administrative Code.</p>
+		
+		<p>A person must have one or more of the following licenses to store, import, export, carry, blend, apply for a refund, or sell fuel in Florida. The method of operation 
+		determines the type of fuel license(s):​​</p>
+		
+			<table summary="List of fuel tax licenses">
+				<tr>
+					<td style="vertical-align: top;padding-left: 22px;">
+						<ul>
+							<li><a title="Link to Air Carrier" href="/taxes/taxesfees/Pages/air_carrier.aspx">Air Carrier</a></li>
+							<li><a title="Link to Blenders" href="/taxes/taxesfees/Pages/blender.aspx">Blender</a></li>
+							<li><a title="Link to Exporter" href="/taxes/taxesfees/Pages/exporter.aspx">Exporter</a></li>
+							<li>​<a title="Link to Local Government User" href="/taxes/taxesfees/Pages/local_government_user.aspx">Local Government User</a>​</li>
+						</ul>
+					</td>
+					<td style="vertical-align: top;padding-left: 22px;">
+						<ul>
+							<li><a title="Link to Mass Transit System Provider" href="/taxes/taxesfees/Pages/mass_transit.aspx">Mass Transit System Provider</a></li>
+							<li><a title="Link to Petroleum Carrier" href="/taxes/taxesfees/Pages/petroleum_carrier.aspx">Petroleum Carrier</a></li>
+							<li><a title="Link to Pollutants" href="/taxes/taxesfees/Pages/pollutants.aspx">Pollutants</a></li>
+							<li><a title="Link to Retail Dealers and Resellers" href="/taxes/taxesfees/Pages/dealers_resellers.aspx">Retail Dealer and Reseller</a><br />(Sales 
+							and Use Tax)​</li>					 
+						</ul>
+					</td>
+					<td style="vertical-align: top;padding-left: 22px;">
+						<ul>
+							<li><a title="Link to Retailer of Natural Gas Fuels" href="/taxes/taxesfees/Pages/retailer_natural_gas_fuels.aspx">Retailer of Natural Gas 
+							Fuels</a>​</li>
+							<li><a title="Link to Terminal Operator" href="/taxes/taxesfees/Pages/terminal_operator.aspx">Terminal Operator</a>​​</li>
+							<li><a title="Link to Terminal Supplier" href="/taxes/taxesfees/Pages/terminal_supplier.aspx">Terminal Supplier</a></li>
+							<li><a title="Link to Wholesaler/Importer" href="/taxes/taxesfees/Pages/wholesaler_importer.aspx">Wholesaler/Importer</a>​</li>
+						</ul>
+					</td>
+				</tr>
+			</table>
+
+<div class="table_colors" id="accordion_forms"> 
+
+			<h3 id="registration">Registration and Account Changes</h3>
+			<div>
+				<p>To apply for a fuel or pollutants license, you must submit a completed <span style="font-style: italic;">Registration Package for Motor Fuel 
+				and/or Pollutants Registrants</span> (<a title="Link to Form GT400401 - This link will open in a new window" 
+				href="/Forms_library/current/gt400401.pdf" target="_blank">Form GT-400401</a>), undergo a background check, pay applicable fees, and post a bond.</p>
+				
+				<p>The registration package includes the <span style="font-style: italic;">Florida Fuel or Pollutants Tax Application</span> (Form DR-156), the 
+				<span style="font-style: italic;">Enrollment and Authorization for e-Services</span> (Form DR-600), the <span style="font-style: italic;">Bond Worksheet</span> 
+				(Form DR-157W), the <span style="font-style: italic;">Fuel or Pollutants Tax Surety Bond</span> (Form DR-157), the <span style="font-style: italic;">Assignment of 
+				Time Deposit</span> (Form DR-157A), and the <span style="font-style: italic;">Fuel or Pollutants Tax Cash Bond</span> (Form DR-157B).​</p>
+
+				<p>You must pay a $30 fee for each license classification (except local government users, mass transit system providers, and natural gas retailers). Each license 
+				(except local government users and mass transit system providers) must be renewed annually by filing the <span style="font-style: italic;">Renewal Application 
+				for Florida/Pollutant Fuel Licenses</span> (Form DR-156R) and paying the appropriate license fee. A personalized renewal application is automatically sent to 
+				registered licensees.</p>
+				
+				<p>You must <strong>notify the Florida Department of Revenue</strong> if you:</p>
+				<ul style="padding-left: 22px;">
+					<li>change your business name;</li>
+					<li>change your mailing address;</li>
+					<li>change your location address within the same county; or</li>
+					<li>close or sell your business.</li>
+				</ul>
+
+				<p>The quickest way to notify the Department is to update your account 
+				<a title="Link to Request a Change of Business Name, Address, and/or Account Status - This link will open in a new window" 
+				href="https://taxapps.floridarevenue.com/TaxInquiry" target="_blank">online</a>.</p>
+				
+			<h3>Retailer of Natural Gas</h3>
+				<p>​A retailer of natural gas fuel must submit a $5 registration fee and a <span style="font-style: italic;">Florida Fuel or Pollutants Tax Application</span> 
+				(Form DR-156) for each location that sells compressed natural gas, liquefied petroleum gas, or a combination of the two for use in a motor vehicle. One application 
+				may be submitted if you own more than one retail station and each station operates under a single Federal Employee Identification Number. However, you must provide a 
+				separate attachment that lists the station name, physical location, and sales tax number for each retail station. Form DR-156 is included in the 
+				<span style="font-style: italic;">Registration Package for Motor Fuel and/or Pollutants Registrants</span> 
+				(<a title="Link to Form GT400401 - This link will open in a new window" href="/Forms_library/current/gt400401.pdf" target="_blank">Form GT-400401</a>).</p>
+				
+			<h3>Local Government User and Mass Transit System Provider</h3>
+				<p>There is no license fee for a local government user or mass transit system provider. In addition, <strong>these license types are not required to renew their 
+				license on an annual basis.</strong></p>
+			
+			<h3>Background Check</h3>
+			
+				<p>The Department will conduct a background investigation to determine if the new applicant is of good moral character and has not been convicted of an offense as 
+				specified in Section 206.026(1)(b), F.S. Publicly held corporations whose stock is regularly traded on a national securities exchange, local governments, mass 
+				transit system providers, and air carriers are not required to undergo a background check. </p>
+
+			<h3>Bond Requirement</h3>
+				
+				<p>Each exporter, importer, pollutants, terminal supplier, or wholesaler license classification must file a bond with the Department (surety bond, assigned time 
+				deposit, or irrevocable letter of credit). To compute the bond(s) required for your license classification(s), complete the <span style="font-style: italic;">Bond 
+				Worksheet</span> (Form DR-157W), and include it with your <span style="font-style: italic;">Florida Fuel or Pollutants Tax Application</span> (Form DR-156). Form 
+				DR-157W is included in the <span style="font-style: italic;">Registration Package for Motor Fuel and/or Pollutants Registrants</span> 
+				(<a title="Link to Form GT400401 - This link will open in a new window" href="/Forms_library/current/gt400401.pdf" target="_blank">Form GT-400401</a>).</p>
+			</div>
+			
+			<h3 id="incentives">Tax Incentives for Businesses</h3>
+			<div>
+				<h3>Flight Training Schools</h3>
+					<p>Sales of aviation fuel to, and exclusively used for flight training through a school of aeronautics or college of aviation by, a college based in this state 
+					which is a tax-exempt organization under Section 501(c)(3) of the Internal Revenue Code or a university based in this state may qualify for a credit of aviation fuel 
+					tax.</p>
+					
+					<p>Reference: Section 206.9825, Florida Statutes (F.S.)</p>
+				
+				<h3>Increased Workforce and Offered Transcontinental Jet Service</h3>
+					<p>This credit is allowed to air carriers who offer transcontinental jet service and that, after January 1, 1996, but before July 1, 2016, increases their Florida 
+					workforce by more than 1,000 percent and by 250 or more full-time equivalent employee positions.</p>
+
+					<p>Reference: Section 206.9825, F.S.</p>
+			</div>	
+				
+			<h3 id="tax">Tax on Fuel</h3>
+			<div>
+				<p><strong>Motor Fuel</strong> – State tax, minimum local option tax, pollutant tax and an inspection fee are imposed on net gallons when tax-unpaid motor fuel is:</p>
+					<ul style="padding-left: 22px;">
+						<li><p>Removed from a terminal licensed with the Internal Revenue Service.</p>
+							<p><strong>Note:</strong> Stock transfers and exchanges between two licensed Florida terminal suppliers within a terminal are not taxable.</p></li>
+						<li>Imported into Florida outside of the bulk transfer system.</li>
+					</ul>
+					
+				<p>Any person who produces blended motor fuel outside the bulk transfer or terminal system is liable for motor fuel tax.</p>
+
+				<p>Any person who uses tax-unpaid motor fuel for a non-exempt purpose is liable for motor fuel tax. In addition, anyone who sells tax-unpaid fuel and knows, or has 
+				reason to know, that the motor fuel will be used for a non-exempt purpose is liable for tax.</p>
+				
+				<p>Licensed Florida terminal suppliers and wholesalers must collect the local option tax above the minimum on sales to non-licensed dealers (terminal suppliers and 
+				wholesalers).</p>
+
+				<p><strong>Diesel</strong> – State, local option, and pollutant taxes are imposed on net gallons when tax-unpaid diesel fuel is: ​</p>
+					<ul style="padding-left: 22px;">
+						<li><p>Removed from a terminal licensed with the Internal Revenue Service.</p>
+							<p><strong>Note:</strong> Stock transfers and exchanges between two licensed Florida terminal suppliers within a terminal are not taxable.</p></li>
+						<li>Imported into Florida outside of the bulk transfer system.</li>
+					</ul>
+				
+				<p>Any person who produces blended diesel fuel outside the bulk transfer or terminal system is liable for diesel fuel tax.</p>
+
+				<p>Any person who uses tax-unpaid diesel fuel for a non-exempt purpose is liable for diesel fuel tax. In addition, anyone who sells tax-unpaid fuel and	knows, or has 
+				reason to know, that the diesel fuel will be used for a non-exempt purpose is liable for tax.</p>
+				
+				<p>Anyone who produces biodiesel must be licensed as a wholesaler and pay state and local option taxes on the total gallons produced. Pollutant tax is due when 
+				biodiesel is blended with petroleum diesel.</p>
+				
+				<p><strong>Aviation and Kerosene Fuel</strong> – State and pollutant taxes are imposed on net gallons when tax-unpaid aviation fuel is:</p>
+					<ul style="padding-left: 22px;">
+						<li><p>Removed from a terminal licensed with the Internal Revenue Service.</p>
+							<p><strong>Note:</strong> Stock transfers and exchanges between two licensed Florida terminal suppliers within a terminal are not taxable.</p></li>
+						<li>Imported into Florida outside of the bulk transfer system.</li>
+					</ul>
+					
+				<p>Any person who converts aviation gasoline, jet fuel, or kerosene to on-road motor or diesel fuel is liable for the full road tax. A credit for the aviation fuel 
+				tax-paid may be offset against the road tax.</p>
+			</div>
+			
+			<h3 id="refunds">Fuel Tax Refunds</h3>
+			<div>
+				<p>Florida law provides <a title="Link to Fuel Tax Refunds Page" href="/taxes/taxesfees/Pages/fuel_tax_refunds.aspx">refunds</a> to qualified entities that have 
+				purchased and used tax-paid fuel. Common refund claims include tax-paid purchases of:</p>
+					<ul style="padding-left: 22px;">
+						<li>​Motor fuel used for agriculture, aquacultural, commercial aviation (ground support), or commercial fishing purposes.​</li>
+						<li>Motor fuel and diesel fuel used by mass transit system providers.</li>
+						<li>Motor fuel and diesel fuel used by local government users.</li>
+						<li>Diesel fuel used for off-road or other exempt purposes.</li>
+						<li>Diesel fuel used by motor coaches during idle time.</li>
+						<li>Motor fuel and diesel fuel used by non-public schools.</li>
+						<li>Pollutants exported, bunkered into marine vessels, or converted to a solvent mixture.</li>
+					</ul>
+			</div>
+			 
+			<h3 id="licenses">Active, Inactive and Canceled Licenses</h3>
+			<div>
+				<p>The Florida Department of Revenue provides a list of active fuel licenses, and inactive and canceled fuel licenses. These lists are refreshed on a regular basis. To 
+				ensure good internal controls, it is important to review license information monthly. The receipt and disbursement schedules are based on vendor and customer license 
+				types.</p>
+				
+				<p>Use the following links to view or search the lists of active licenses, or inactive and canceled licenses:</p>
+					<ul style="padding-left: 22px;">
+						<li><a title="Link to Active Fuel Licenses - This link will open in a new window" href="/taxes/taxesfees/Pages/fuel_active.aspx?Filter=1" 
+						target="_blank">​Active Fuel Licenses</a></li>
+						<li><a title="Link to Inactive Fuel Licenses - This link will open in a new window" href="/taxes/taxesfees/Pages/fuel_inactive.aspx?Filter=1" 
+						target="_blank">Inactive and Canceled Fuel Licenses</a></li>
+					</ul>
+			</div>
+
+			<h3 id="rate">Fuel Tax Rate Charts</h3>
+			<div>
+				<p>Florida law requires annual adjustments to the state fuel tax rates and the State Comprehensive Enhanced Transportation System (SCETS) tax rate, based on the
+				National Consumer Price Index. The rate charts below are excerpts from the Tax Information Publication (TIP) issued for that year. Visit the Department's 
+				<a title="Link to Revenue Law Library - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/Pages/Browse.aspx#3-19-17" target="_blank">Revenue Law Library</a> to read the entire TIP.</p>
+				
+				<table align:"center" style="margin: 0px auto;" summary="Fuel Tax Rate Charts">
+				
+					<tr>
+						<td style="vertical-align: top;"> 
+							<ul>
+								<li><a title="Link to 2018 Fuel Tax Rates - This link will open in a new window" 
+								href="/taxes/Documents/17B05-03_chart.pdf" 
+								target="blank">2018 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a>
+								</li><li><a title="Link to 2017 Fuel Tax Rates - This link will open in a new window" 
+								href="/taxes/Documents/16b05-02_chart.pdf" 
+								target="blank">2017 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a>
+								</li>
+								<li><a title="Link to 2016 Fuel Tax Rates - This link will open in a new window" 
+								href="/taxes/Documents/15b05-02_chart.pdf" 
+								target="blank">2016 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a>
+								</li>
+								<li><a title="Link to 2015 Fuel Tax Rates - This link will open in a new window" 
+								href="/taxes/Documents/14b05-01_chart.pdf" 
+								target="blank">2015 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a>
+								</li>
+								
+						</td>	
+						<td style="vertical-align: top; padding-left: 102px;">
+							<ul>
+								<li><a title="Link to 2014 Fuel Tax Rates - This link will open in a new window" 
+								href="/taxes/Documents/13b05-01_chart.pdf" 
+								target="blank">2014 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a>
+								</li><li><a title="Link to 2013 Fuel Tax Rates - This link will open in a new window" 
+								href="/taxes/Documents/13b05-02_chart.pdf" 
+								target="blank">2013 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a> (07/01/2013 - 12/31/2013)
+								</li>
+								<li><a title="Link to 2013 Fuel Tax Rates - This link will open in a new window" 
+								href="/taxes/Documents/12b05-02_chart.pdf" 
+								target="blank">2013 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a> (01/01/2013 - 06/30/2013)
+								</li>
+								<li><a title="Link to 2012 Fuel Tax Rates - This link will open in a new window" 
+								href="/taxes/Documents/11b05-02_chart.pdf" 
+								target="blank">2012 <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a>
+								</li>
+							</ul>
+						</td>
+					</tr>
+				</table>
+			</div>
+			
+			<h3 id="dep">Florida Department of Environmental Protection Tank Facility Database</h3>
+			 <div>
+				<p>The tank facility data is provided by the Florida Department of Environmental Protection (DEP). Use the DEP facility ID to validate the point of origin or 
+				destination reported on a receipt or disbursement schedule.</p>
+				
+				<table align:"center" style="margin: 0px auto;" summary="Florida Department of Environmental Protection Tank Facility Database">
+					<tr>
+						<td style="vertical-align: top;"> 
+							<ul>
+							
+								<li><a title="Link to Apr 2018 Petroleum Product Facilities Excel File - This link will open in a new window" 
+								href="/taxes/Documents/dep/DOR_Petroleum_Product_Facilities_Apr_2018.xlsx">04/2018 
+								<img alt="Excel Icon" src="/PublishingImages/Excel-icon.png"></a> 
+								</li>
+
+								<li><a title="Link to Mar 2018 Petroleum Product Facilities Excel File - This link will open in a new window" 
+								href="/taxes/Documents/dep/DOR_Petroleum_Product_Facilities_Mar_2018.xlsx">03/2018 
+								<img alt="Excel Icon" src="/PublishingImages/Excel-icon.png"></a> 
+								</li>
+								
+								<li><a title="Link to Feb 2018 Petroleum Product Facilities Excel File - This link will open in a new window" 
+								href="/taxes/Documents/dep/DOR_Petroleum_Product_Facilities_Feb_2018.xlsx">02/2018 	
+								<img alt="Excel Icon" src="/PublishingImages/Excel-icon.png"></a>
+								</li>
+
+							</ul>
+						</td>	
+						<td style="vertical-align: top; padding-left: 102px;">
+							<ul>
+								<li><a title="Link to Jan 2018 Petroleum Product Facilities Excel File - This link will open in a new window" 
+								href="/taxes/Documents/dep/DOR_Petroleum_Product_Facilities_Jan_2018.xlsx">01/2018 
+								<img alt="Excel Icon" src="/PublishingImages/Excel-icon.png"></a> 
+								</li>
+
+								<li><a title="Link to Dec 2017 Petroleum Product Facilities Excel File - This link will open in a new window" 
+								href="/taxes/Documents/dep/DOR_Petroleum_Product_Facilities_Dec_2017.xlsx">12/2017 
+								<img alt="Excel Icon" src="/PublishingImages/Excel-icon.png"></a>
+								</li>
+								
+								<li><a title="Link to Nov 2017 Petroleum Product Facilities Excel File - This link will open in a new window" 
+								href="/taxes/Documents/dep/DOR_Petroleum_Product_Facilities_Nov_2017.xlsx">11/2017 
+								<img alt="Excel Icon" src="/PublishingImages/Excel-icon.png"></a> 
+								</li>
+
+							</ul>
+						</td>
+					</tr>
+				</table>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- End Main Content -->

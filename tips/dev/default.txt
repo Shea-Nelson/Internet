@@ -1,0 +1,213 @@
+<div>
+   <table width="100%" border="0" cellspacing="0" cellpadding="10" summary="TIPS Table Layout">
+      <tbody>
+         <tr>
+            <td>&#160;</td>
+            <th class="sub_heading">
+               <h3 id="Current Interest Rates">Current Interest Rates</h3>
+            </th>
+         </tr>
+         <tr valign="top">
+            <td>
+               <a title="Link to TIP #17ADM-02 - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2017/11/TIP-121501_TIP%2017ADM-02%20FINAL%20RLL.pdf" target="_blank">TIP #17ADM-02  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;11/15/17</td>
+            <td class="p_bottom">Floating Rate of Interest Remains at 8 Percent for the Period January 1, 2018 through June 30, 2018</td>
+         </tr>
+		<tr valign="top">
+            <td>
+               <a title="Link to TIP #18ADM-02 - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/04/TIP-121703_TIP%2018ADM-02%20FINAL%20RLL.pdf" target="_blank">TIP #18ADM-02  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;04/24/18</td>
+            <td class="p_bottom">Floating Rate of Interest Remains at 8 Percent for the Period July 1, 2018 through December 31, 2018</td>
+         </tr>
+		 
+		<tr>
+            <td>&#160;</td>
+            <th class="sub_heading">
+               <h3 id="Administration">Administration</h3>
+            </th>
+         </tr>
+         <tr valign="top">
+            <td>
+               <a title="Link to TIP #18ADM-01 - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/04/TIP-121693_TIP%2018ADM-01%20Final%20RLL.pdf" target="_blank">TIP #18ADM-01  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;04/13/18</td>
+            <td class="p_bottom">Florida Tax Credit Scholarship Program Tax Credit Cap Will Increase</td>
+         </tr>
+
+		 <tr valign="top">
+            <td>
+               <a title="Link to TIP #18ADM-03 - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/06/TIP-121809_TIP%2018ADM-03%20FINAL-RLL.pdf" target="_blank">TIP #18ADM-03  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;06/22/18</td>
+            <td class="p_bottom">Florida Tax Credit Scholarship Program 2018 Legislative Changes</td>
+         </tr>
+		 
+		 <tr>
+            <td>&#160;</td>
+            <th class="sub_heading">
+               <h3 id="Communications Services Tax">Communications Services Tax</h3>
+            </th>
+         </tr>
+         <tr valign="top">
+            <td>
+               <a title="Link to TIP #18A19-01 - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/02/TIP-121614_TIP%2018A19-01%20FINAL%20RLL.pdf" target="_blank">TIP #18A19-01  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;02/28/18</td>
+            <td class="p_bottom">Communications Services Tax - Town of Hastings Removed as a Local Taxing Jurisdiction Effective March 1, 2018</td>
+         </tr>
+
+     <tr>
+            <td>&#160;</td>
+            <th class="sub_heading">
+               <h3 id="Corporate Income Tax">Corporate Income Tax</h3>
+            </th>
+         </tr>
+         <tr valign="top">
+            <td>
+               <a title="Link to TIP #18C01-01 - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/04/TIP-121710_TIP%2018C01-01%20FINAL%20RLL.pdf" target="_blank">TIP #18C01-01  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;04/27/18</td>
+            <td class="p_bottom">Section 965, IRC - Transition Tax - Repatriation - Impact on Florida Corporate Income/Franchise Tax Return (Form F-1120)</td>
+         </tr>
+         <tr valign="top">
+            <td>
+               <a title="Link to TIP #18C01-02 - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/06/TIP-121839_TIP%2018C01-02%20FINAL%20RLL.pdf" target="_blank">TIP #18C01-02  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;06/28/18</td>
+            <td class="p_bottom">Florida Corporate Income Tax Adoption of Internal Revenue Code and Tax Credit Changes</td>
+         </tr>
+
+<!--	 <tr>
+            <td>&#160;</td>
+            <th class="sub_heading">
+               <h3 id="Estate">Estate Tax</h3>
+            </th>
+         </tr>
+         <tr valign="top">
+            <td>
+               <a title="Link to TIP # - This link will open in a new window" href="" target="_blank">TIP #  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;xx/xx/xx</td>
+            <td class="p_bottom"></td>
+         </tr> -->
+
+		<tr>
+            <td>&#160;</td>
+            <th class="sub_heading">
+               <h3 id="Fuel Tax">Fuel Tax</h3>
+            </th>
+         </tr>
+         <tr valign="top">
+            <td>
+               <a title="Link to TIP #18B05-01 - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/05/TIP-121721_TIP%2018B05-01%20FINAL%20RLL.pdf" target="_blank">TIP #18B05-01  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;05/09/18</td>
+            <td class="p_bottom">New Fuel Tax Exemption for Terminal Suppliers</td>
+         </tr> 
+		<tr valign="top">
+            <td>
+               <a title="Link to TIP #18B05-02 - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/05/TIP-121724_TIP%2018B05-02%20FINAL%20RLL.pdf" target="_blank">TIP #18B05-02  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;05/18/18</td>
+            <td class="p_bottom">Refund of Taxes Paid on Fuel Used for Agricultural Shipments After Hurricane Irma</td>
+         </tr>
+		 <tr>
+            <td>&#160;</td>
+            <th class="sub_heading">
+               <h3 id="Gross Receipts Tax">Gross Receipts Tax</h3>
+            </th>
+         </tr>
+         <tr valign="top">
+            <td>
+               <a title="Link to TIP #18B06-01 - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/05/TIP-121726_TIP%2018B06-01%20FINAL%20RLL.pdf" target="_blank">TIP #18B06-01  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;05/25/18</td>
+            <td class="p_bottom">Gross Receipts Tax Index Prices for the Period July 1, 2018 through June 30, 2019</td>
+         </tr>
+
+<!--     <tr>
+            <td>&#160;</td>
+            <th class="sub_heading">
+               <h3 id="Insurance Premium Tax">Insurance Premium Tax</h3>
+            </th>
+         </tr>
+         <tr valign="top">
+            <td>
+               <a title="Link to TIP # - This link will open in a new window" href="" target="_blank">TIP #  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;xx/xx/xx</td>
+            <td class="p_bottom"></td>
+         </tr> -->
+
+         <tr>
+            <td>&#160;</td>
+            <th class="sub_heading">
+               <h3 id="Intangible Tax">Intangible Tax</h3>
+            </th>
+         </tr>
+         <tr valign="top">
+            <td>
+               <a title="Link to TIP #18C02-01 - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/01/TIP-121578_TIP%2018C02-01%20FINAL%20RLL.pdf" target="_blank">TIP #18C02-01  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;01/09/18</td>
+            <td class="p_bottom">2018 Governmental Leasehold Intangible Tax Valuation Factor Table</td>
+         </tr>
+
+         <tr>
+            <td>&#160;</td>
+            <th class="sub_heading">
+               <h3 id="Sales and Use Tax">Sales and Use Tax</h3>
+            </th>
+         </tr>
+         <tr valign="top">
+            <td>
+               <a title="Link to TIP #18A01-01R - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/02/TIP-121615_TIP%2018A01-01R%20FINAL%20RLL.pdf" target="_blank">TIP #18A01-01R  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;01/09/18<br /><span style="font-style: italic;"><strong>Revised: 02/28/18</strong></span></td>
+            <td class="p_bottom">Motor Vehicle Sales Tax Rates by State as of December 31, 2017</td>
+         </tr>
+		 <tr valign="top">
+            <td>
+               <a title="Link to TIP #18A01-02 - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/01/TIP-121583_TIP%2018A01-02%20FINAL%20RLL.pdf" target="_blank">TIP #18A01-02  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;01/12/18</td>
+            <td class="p_bottom">Registration Fees Eliminated Beginning January 1, 2018</td>
+         </tr>
+		 <tr valign="top">
+            <td>
+               <a title="Link to TIP #18A01-03 - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/01/TIP-121584_TIP%2018A01-03%20FINAL%20RLL.pdf" target="_blank">TIP #18A01-03  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;01/12/18</td>
+            <td class="p_bottom">Department of Revenue Notice on Vending Machines No Longer Required</td>
+         </tr>
+		 <tr valign="top">
+            <td>
+               <a title="Link to TIP #18A01-04 - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/04/TIP-121694_TIP%2018A01-04%20FINAL%20RLL.pdf" target="_blank">TIP #18A01-04  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;04/16/18</td>
+            <td class="p_bottom">Report Highlands County Tourist Development Tax to the Florida Department of Revenue Beginning May 1, 2018</td>
+         </tr>
+		 <tr valign="top">
+            <td>
+               <a title="Link to TIP #18A01-05 - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/04/TIP-121704_TIP%2018A01-05%20FINAL%20RLL.pdf" target="_blank">TIP #18A01-05  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;04/25/18</td>
+            <td class="p_bottom">2018 Disaster Preparedness Sales Tax Holiday June 1 through June 7, 2018</td>
+         </tr>
+             <tr valign="top">
+            <td>
+               <a title="Link to TIP #18A01-06 - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/05/TIP-121728_TIP%2018A01-06%20FINAL%20RLL.pdf " target="_blank">TIP #18A01-06  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;05/30/18</td>
+            <td class="p_bottom">New Sales and Use Tax Exemption for Recycling Roll Off Containers</td>
+         </tr>
+		 </tr>
+             <tr valign="top">
+            <td>
+               <a title="Link to TIP #18A01-07 - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/06/TIP-121808_TIP%2018A01-07%20FINAL%20RLL.pdf" target="_blank">TIP #18A01-07  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;06/27/18</td>
+            <td class="p_bottom">2018 Back-to-School Sales Tax Holiday August 3 through August 5, 2018</td>
+         </tr>		 
+		 <tr valign="top">
+            <td>
+               <a title="Link to TIP #18A01-08 - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/05/TIP-121723_TIP%2018A01-08%20FINAL%20RLL.pdf" target="_blank">TIP #18A01-08  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;05/18/18</td>
+            <td class="p_bottom">Sales Tax Refund for Certain Farm-Related Materials Damaged by Hurricane Irma</td>
+         </tr>
+		 <tr valign="top">
+            <td>
+               <a title="Link to TIP #18A01-09 - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/05/TIP-121725_TIP%2018A01-09%20FINAL%20RLL.pdf" target="_blank">TIP #18A01-09  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;05/18/18</td>
+            <td class="p_bottom">Exemption for Equipment Used to Generate Emergency Electricity at Nursing Homes or Assisted Living Facilities</td>
+		</tr>
+		<tr valign="top">
+			<td>
+               <a title="Link to TIP #18A01-10 - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/05/TIP-121789_TIP%2018A01-10%20FINAL2%20RLL.pdf" target="_blank">TIP #18A01-10  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;05/30/18</td>
+            <td class="p_bottom">Changes to Sales and Use Tax Exemptions for Aquaculture Businesses</td>
+         </tr>		 
+		<tr valign="top">
+            <td>
+               <a title="Link to TIP #18A01-11 - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/06/TIP-121790_TIP%2018A01-11%20FINAL%20RLL.pdf" target="_blank">TIP #18A01-11  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;06/19/18</td>
+            <td class="p_bottom">Indexed Tax on Asphalt Increases to 77 Cents Per Ton for the Period July 1, 2018 through June 30, 2019</td>
+         </tr>		 
+		 <tr>
+            <td>&#160;</td>
+            <th class="sub_heading">
+               <h3 id="Severance Tax">Severance Tax</h3>
+            </th>
+         </tr>
+         <tr valign="top">
+            <td>
+               <a title="Link to TIP #18B07-01 - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/03/TIP-121632_TIP%2018B07-01%20FINAL%20RLL.pdf" target="_blank">TIP #18B07-01  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;03/20/18</td>
+            <td class="p_bottom">Solid Mineral Tax Rates for Year 2018</td>
+         </tr>
+		 <tr valign="top">
+            <td>
+               <a title="Link to TIP #18B07-02 - This link will open in a new window" href="https://revenuelaw.floridarevenue.com/LawLibraryDocuments/2018/05/TIP-121727_TIP%2018B07-02%20FINAL%20RLL.pdf" target="_blank">TIP #18B07-02  <img alt="PDF Icon" src="/PublishingImages/pdficon_small.png"></a><br/><span style="font-style: italic;">Date Issued</span>:&#160;05/23/18</td>
+            <td class="p_bottom">Gas and Sulfur Production Tax Rates for 2018-2019</td>
+         </tr>
+      </tbody>
+   </table>
+<br />
+</div>
